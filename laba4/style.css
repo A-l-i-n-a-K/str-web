@@ -67,6 +67,10 @@ a:after {
   transition: width 0.4s ease-out;
 }
 
+.important-link:hover {
+  color: #68b497;
+}
+
 a:hover:after {
   width: 100%;
 }
